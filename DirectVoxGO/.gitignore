@@ -1,0 +1,13 @@
+**/.ipynb_checkpoints
+**/__pycache__
+*.npy
+*.npz
+*.dae
+data
+*.png
+set0
+set1
+set2
+venv2
+output
+*.tar
